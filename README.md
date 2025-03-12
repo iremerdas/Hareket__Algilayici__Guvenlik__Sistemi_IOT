@@ -1,2 +1,2 @@
-# Hareket-Alg-lay-c-l-G-venlik-Sistemi
+# Hareket Algılayıcı Güvenlik Sistemi
 Hareket Algılayıcılı Güvenlik Sistemi (IOT)
